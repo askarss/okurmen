@@ -2,6 +2,8 @@
     width: 600px;
     height: 500px;
     border:1px solid blue;
+    display: flex;
+    justify-content: space-between;
 }
 
 .item{
@@ -9,3 +11,5 @@
     height: 100px;
     background-color: brown;
 }
+
+
